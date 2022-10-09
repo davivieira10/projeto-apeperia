@@ -1,5 +1,5 @@
 ## <h1>Projeto Apeperia</h1>
-<h2>Projeto desenvolvido no curso de Layouts Responsivos - Trabalhando com Layouts Mobile do Programa ONE, uma parceria da Oracle junto com a Alura para treinar as ferramentas de HTML e CSS, exercitando também a parte responsiva do site.</h2>
+<h2>Projeto desenvolvido no curso de Layouts Responsivos - Trabalhando com Layouts Mobile do Programa ONE, uma parceria da Oracle junto com a Alura para treinar as ferramentas de HTML e CSS, exercitando a parte responsiva do site.</h2>
 
 <img align="center" alt="Projeto Apeperia" src="https://i.postimg.cc/k4Nfp899/projeto-apeperia.png">
 
